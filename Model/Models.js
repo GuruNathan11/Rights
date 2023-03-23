@@ -8,7 +8,7 @@ var Schema = new Schema({
     },
     rightsRatio:{
         required : true,
-        type     : Number
+        type     : String
     },
     fv:{
         required : true,
